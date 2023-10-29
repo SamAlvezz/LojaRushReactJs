@@ -10,7 +10,7 @@ import Hemispheres from '../../assets/cd hm2.jpg'
 import PermanentWaves from '../../assets/perma.jpg'
 import MovingPictures from '../../assets/mv2.jpg' 
 import Signals from '../../assets/signals.jpg'
-import Logo from '../../assets/rushrush.jpg'
+import Logo from '../../assets/rushlogo.png'
 
 export default function ListaDeProdutos() {
     return (
